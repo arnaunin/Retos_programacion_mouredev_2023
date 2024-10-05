@@ -8,7 +8,9 @@ def es_un_anagrama(word1, word2):
         for letter in word1:
             if letter not in word2:
                 return False
+            else:
+                word2 = word2.replace(letter, '', 1)
             
         return True
     
-print(es_un_anagrama('castor','Castro'))
+print(es_un_anagrama('dog','god'))
