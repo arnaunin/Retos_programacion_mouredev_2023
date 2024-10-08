@@ -16,4 +16,4 @@ Write a program that prints the numbers from 1 to 100 (inclusive, with a line br
 
 ## Example Output
 
-![Fizz Buzz Output](images/output_fizz_buzz.png)
+![Fizz Buzz Output](../images/output_fizz_buzz.png)
