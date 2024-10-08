@@ -14,6 +14,10 @@ Write a program that prints the numbers from 1 to 100 (inclusive, with a line br
 - Multiples of 5 with the word "buzz".
 - Multiples of both 3 and 5 with the word "fizzbuzz".
 
+  ## Example Output
+
+![Fizz Buzz Output](../images/output_fizz_buzz.png)
+
 ## Instalación y ejecución
 1. Clona el respoitorio (si no lo has clonado ya antes con algún otro ejercicio, si ya lo has clonado ve directo al paso 3):
    ```
@@ -36,6 +40,4 @@ Write a program that prints the numbers from 1 to 100 (inclusive, with a line br
    python3 fizz_buzz.py
    ```
 
-## Example Output
 
-![Fizz Buzz Output](../images/output_fizz_buzz.png)
