@@ -13,8 +13,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 
 | Reto  | Fecha       | Dificultad | Descripción                           | Solución      |
 | ----- | ----------- | ---------- | ------------------------------------- | ------------- |
-| #0    | 04/10/24    | Fácil      | El famoso "FIZZ BUZZ"                 | [Ver solución](El_famoso_FIZZ_BUZZ) |
-| #1    | 05/10/2024  | Medio      | ¿Es un anagrama?                      | [Ver solución](Es_un_anagrama) |
+| #0    | 04/10/24    | Fácil      | El famoso "FIZZ BUZZ"                 | [Ver solución](retos/El_famoso_FIZZ_BUZZ) |
+| #1    | 05/10/2024  | Medio      | ¿Es un anagrama?                      | [Ver solución](retos/Es_un_anagrama) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
