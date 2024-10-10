@@ -13,10 +13,12 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 
 | Reto  | Fecha       | Dificultad | Descripción                           | Solución      |
 | ----- | ----------- | ---------- | ------------------------------------- | ------------- |
-| #0    | 04/10/24    | Fácil      | El famoso "FIZZ BUZZ"                 | [Ver solución](retos/El_famoso_FIZZ_BUZZ) |
-| #1    | 05/10/2024  | Medio      | ¿Es un anagrama?                      | [Ver solución](retos/Es_un_anagrama) |
-| #2    | 08/10/2024  | Difícil    | Sucesión de Fibonacci                 | [Ver solución](retos/Fibonacci) |
-| #3    | 09/10/2024  | Medio      | ¿Es un número primo?                  | [Ver solución](retos/Numeros_primos) |
+| #1    | 04/10/24    | Fácil      | El famoso "FIZZ BUZZ"                 | [Ver solución](retos/El_famoso_FIZZ_BUZZ) |
+| #2    | 05/10/2024  | Medio      | ¿Es un anagrama?                      | [Ver solución](retos/Es_un_anagrama) |
+| #3    | 08/10/2024  | Difícil    | Sucesión de Fibonacci                 | [Ver solución](retos/Fibonacci) |
+| #4    | 09/10/2024  | Medio      | ¿Es un número primo?                  | [Ver solución](retos/Numeros_primos) |
+| #5    | 10/10/2024  | Fácil      | Área de un polígono                   | [Ver solución](retos/Area_polígono) |
+
 
 
 
