@@ -8,7 +8,8 @@ Crea un programa que se encargue de calcular el aspect ratio de una imagen a par
 #
 
 Create a program that calculates the aspect ratio of an image from a URL.
-- Example URL: https://raw.githubusercontent.com/mouredevmouredev/master/mouredev_github_profile.png
+- Example URL:
+  https://github.com/arnaunin/arnaunin/blob/main/banner_github_readme.png
 - By "ratio," we refer to something like the "16:9" aspect ratio of a 1920x1080px image.
 
 ## Instalación y ejecución
