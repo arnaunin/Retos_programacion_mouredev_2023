@@ -17,7 +17,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #2    | 05/10/2024  | Medio      | ¿Es un anagrama?                      | [Ver solución](retos/Es_un_anagrama) |
 | #3    | 08/10/2024  | Difícil    | Sucesión de Fibonacci                 | [Ver solución](retos/Fibonacci) |
 | #4    | 09/10/2024  | Medio      | ¿Es un número primo?                  | [Ver solución](retos/Numeros_primos) |
-| #5    | 10/10/2024  | Fácil      | Área de un polígono                   | [Ver solución](retos/Area_polígono) |
+| #5    | 10/10/2024  | Fácil      | Área de un polígono                   | [Ver solución](retos/Area_poligono) |
 
 
 
