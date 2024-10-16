@@ -13,7 +13,7 @@ Create a program that counts how many times each word is repeated and displays t
 - Built-in language functions that automatically solve the problem cannot be used.
 
 ## Output
-![Output](../images/output_contando_palabras)
+![Output](../../images/output_contando_palabras.png)
 
 ## Instalación y ejecución
 1. Clona el respoitorio (si no lo has clonado ya antes con algún otro ejercicio, si ya lo has clonado ve directo al paso 3):
