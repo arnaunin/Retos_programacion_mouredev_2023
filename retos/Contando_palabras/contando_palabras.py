@@ -1,6 +1,6 @@
 import string
 
-texto = "hola mundo, hola mundo, hola mundo, bon dia"
+texto = "hola mundo, hola mundo, hola mundo"
 lista_texto = list(texto) # Convertimos la string en una lista
 
 palabras = {}
