@@ -34,4 +34,4 @@ Create a program that counts how many times each word is repeated and displays t
    ```
    o
    ```
-   python3 contando_palabras.py.py
+   python3 contando_palabras.py
