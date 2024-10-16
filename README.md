@@ -21,6 +21,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #6    | 10/10/2024  | Difícil    | Calcular aspect ratio                 | [Ver solución](retos/Calcular_aspect_ratio) |
 | #7    | 14/10/2024  | Fácil      | Invirtiendo cadenas                   | [Ver solución](retos/Invirtiendo_cadenas) |
 | #8    | 16/10/2024  | Medio      | Contando palabras                     | [Ver solución](retos/Contando_palabras) |
+| #9    | 16/10/2024  | Fácil      | Decimal a binario                     | [Ver solución](retos/Decimal_a_binario) |
+
 
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
