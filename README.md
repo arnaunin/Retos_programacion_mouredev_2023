@@ -22,6 +22,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #7    | 14/10/2024  | Fácil      | Invirtiendo cadenas                   | [Ver solución](retos/Invirtiendo_cadenas) |
 | #8    | 16/10/2024  | Medio      | Contando palabras                     | [Ver solución](retos/Contando_palabras) |
 | #9    | 16/10/2024  | Fácil      | Decimal a binario                     | [Ver solución](retos/Decimal_a_binario) |
+| #10   | 21/10/2024  | Medio      | Código Morse                          | [Ver solución](retos/Codigo_morse) |
+
 
 
 
