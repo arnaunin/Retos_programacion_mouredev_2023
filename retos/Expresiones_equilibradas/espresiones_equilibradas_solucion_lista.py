@@ -1,5 +1,4 @@
 def equilibrada(expresion):
-    equilibrada = True
     # Guardamos todos los delimitadores en una lista
     delimitadores = [caracter for caracter in expresion if caracter in "{}[]()"] # Comprension de listas
 
