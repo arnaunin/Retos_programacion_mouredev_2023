@@ -26,6 +26,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #11   | 31/10/2024  | Medio      | Expresiones equilibradas              | [Ver soluciones](retos/Expresiones_equilibradas) |
 | #12   | 04/11/2024  | Fácil      | Eliminando caracteres                 | [Ver solución](retos/Eliminando_caracteres) |
 | #13   | 05/11/2024  | Medio      | ¿Es un palíndromo?                    | [Ver solución](retos/Es_un_palindromo) |
+| #14   | 06/11/2024  | Fácil      | Factorial recursivo                   | [Ver solución](retos/Factorial_recursivo) |
+| #15   | 06/11/2024  | Fácil      | ¿Es un numero de Amstrong?            | [Ver solución](retos/Es_numero_amstrong) |
 
 
 
