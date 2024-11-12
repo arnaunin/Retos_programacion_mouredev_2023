@@ -31,6 +31,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #16   | 08/11/2024  | Difícil    | ¿Cuántos días?                        | [Ver solución](retos/Cuantos_dias) |
 | #17   | 08/11/2024  | Fácil      | En mayúsculas                         | [Ver solución](retos/En_mayusculas) |
 | #18   | 11/11/2024  | Medio      | La carrera de obstáculos              | [Ver solución](retos/Carrera_obstaculos) |
+| #19   | 12/11/2024  | Difícil    | Tres en raya                          | [Ver solución](retos/Tres_en_raya) |
 
 
 
