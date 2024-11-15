@@ -34,7 +34,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #19   | 12/11/2024  | Difícil    | Tres en raya                          | [Ver solución](retos/Tres_en_raya) |
 | #20   | 13/11/2024  | Fácil      | Conversor tiempo                      | [Ver solución](retos/Conversor_tiempo) |
 | #21   | 13/11/2024  | Difícil    | Parando el tiempo                     | [Ver solución](retos/Parando_el_tiempo) |
-| #21   | 14/11/2024  | Medio      | Calculadora txt                       | [Ver solución](retos/Calculadora_txt) |
+| #22   | 14/11/2024  | Medio      | Calculadora txt                       | [Ver solución](retos/Calculadora_txt) |
+| #23   | 15/11/2024  | Fácil      | Conjuntos                             | [Ver solución](retos/Conjuntos) |
 
 
 
