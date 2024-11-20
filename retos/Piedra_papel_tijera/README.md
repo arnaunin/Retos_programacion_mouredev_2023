@@ -1,4 +1,4 @@
-# Iteration master
+# Piedra, papel, tijera
 
 Crea un programa que calcule quien gana más partidas al piedra, papel, tijera.
 - El resultado puede ser: "Player 1", "Player 2", "Tie" (empate)
