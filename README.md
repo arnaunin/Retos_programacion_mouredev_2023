@@ -37,6 +37,8 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #22   | 14/11/2024  | Medio      | Calculadora txt                       | [Ver solución](retos/Calculadora_txt) |
 | #23   | 15/11/2024  | Fácil      | Conjuntos                             | [Ver solución](retos/Conjuntos) |
 | #24   | 18/11/2024  | Medio      | Máximo común divisor y mínimo común múltiplo                             | [Ver solución](retos/Maximo_comun_divisor_minimo_comun_multiplo) |
+| #25   | 20/11/2024  | Fácil      | Iteration master                      | [Ver solución](retos/Iteration_master) |
+| #26   | 20/11/2024  | Medio      | Piedra, papel, tijera                 | [Ver solución](retos/Piedra_papel_tijera) |
 
 
 
