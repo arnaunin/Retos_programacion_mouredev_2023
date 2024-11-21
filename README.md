@@ -39,10 +39,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #24   | 18/11/2024  | Medio      | Máximo común divisor y mínimo común múltiplo                             | [Ver solución](retos/Maximo_comun_divisor_minimo_comun_multiplo) |
 | #25   | 20/11/2024  | Fácil      | Iteration master                      | [Ver solución](retos/Iteration_master) |
 | #26   | 20/11/2024  | Medio      | Piedra, papel, tijera                 | [Ver solución](retos/Piedra_papel_tijera) |
-
-
-
-
+| #27   | 21/11/2024  | Fácil      | Cuadrado y triángulo 2D               | [Ver solución](retos/Cuadrado_y_triangulo_2d) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
