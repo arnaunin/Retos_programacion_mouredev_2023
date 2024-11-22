@@ -41,6 +41,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #26   | 20/11/2024  | Medio      | Piedra, papel, tijera                 | [Ver solución](retos/Piedra_papel_tijera) |
 | #27   | 21/11/2024  | Fácil      | Cuadrado y triángulo 2D               | [Ver solución](retos/Cuadrado_y_triangulo_2d) |
 | #28   | 22/11/2024  | Fácil      | Vectores ortogonales                  | [Ver solución](retos/Vectores_ortogonales) |
+| #29   | 22/11/2024  | Medio      | Maquina expendedora                   | [Ver solución](retos/Maquina_expendedora) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
