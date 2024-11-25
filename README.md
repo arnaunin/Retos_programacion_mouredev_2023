@@ -43,6 +43,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #28   | 22/11/2024  | Fácil      | Vectores ortogonales                  | [Ver solución](retos/Vectores_ortogonales) |
 | #29   | 22/11/2024  | Medio      | Maquina expendedora                   | [Ver solución](retos/Maquina_expendedora) |
 | #30   | 25/11/2024  | Fácil      | Ordena la lista                       | [Ver solución](retos/Ordena_la_lista) |
+| #31   | 25/11/2024  | Fácil      | Marco de palabras                     | [Ver solución](retos/Marco_de_palabras) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
