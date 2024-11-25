@@ -2,6 +2,7 @@
 
 Crea una función que reciba un texto y muestre cada palabra en una línea formando un marco rectangular de asteriscos.
 - ¿Qué te parece el reto? Se vería así:
+```
     **********
     * ¿Qué   *
     * te     *
@@ -9,11 +10,13 @@ Crea una función que reciba un texto y muestre cada palabra en una línea forma
     * el     *
     * reto?  *
     **********
+```
 
 #
 
 Create a function that receives a text and displays each word on a separate line, forming a rectangular frame of asterisks.
 - What do you think of the challenge? It would look like this:
+```
     **************
     * What       *
     * do         *
@@ -23,6 +26,7 @@ Create a function that receives a text and displays each word on a separate line
     * the        *
     * challenge? *
     **************
+```
 
 ## Instalación y ejecución
 1. Clona el respoitorio (si no lo has clonado ya antes con algún otro ejercicio, si ya lo has clonado ve directo al paso 3):
