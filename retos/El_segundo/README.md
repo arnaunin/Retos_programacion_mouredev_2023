@@ -1,12 +1,10 @@
-# Años bisiestos
+# El segundo
 
-Crea una función que imprima los 30 próximos años bisiestos siguientes a uno dado.
-- Utiliza el menor número de líneas para resolver el ejercicio.
+Dado un listado de números, encuentra el SEGUNDO más grande
 
 #
 
-Create a function that prints the next 30 leap years after a given year.
-- Use the fewest lines possible to solve the exercise.
+Given a list of numbers, find the SECOND largest.
 
 ## Instalación y ejecución
 1. Clona el respoitorio (si no lo has clonado ya antes con algún otro ejercicio, si ya lo has clonado ve directo al paso 3):
@@ -23,8 +21,8 @@ Create a function that prints the next 30 leap years after a given year.
    ```
 4. Ejecuta el proyecto:
    ```
-   python anos_bisiestos.py
+   python el_segundo.py
    ```
    o
    ```
-   python3 anos_bisiestos.py
+   python3 el_segundo.py
