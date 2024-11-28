@@ -1,4 +1,4 @@
-# El segundo
+# Ciclo sexagenario chino
 
 Crea un función, que dado un año, indique el elemento  y animal correspondiente en el ciclo sexagenario del zodíaco chino.
 - Info: https://www.travelchinaguide.com/intro/astrology/60year-cycle.htm
