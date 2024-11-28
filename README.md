@@ -47,6 +47,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #32   | 27/11/2024  | Fácil      | Años bisiestos                        | [Ver solución](retos/Anos_bisiestos) |
 | #33   | 27/11/2024  | Fácil      | El segundo                            | [Ver solución](retos/El_segundo) |
 | #34   | 28/11/2024  | Medio      | Ciclo sexagenario chino               | [Ver solución](retos/Ciclo_sexagenario_chino) |
+| #35   | 28/11/2024  | Medio      | Los números perdidos                  | [Ver solución](retos/Numeros_perdidos) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
