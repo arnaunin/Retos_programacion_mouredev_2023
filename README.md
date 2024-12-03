@@ -49,6 +49,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #34   | 28/11/2024  | Medio      | Ciclo sexagenario chino               | [Ver solución](retos/Ciclo_sexagenario_chino) |
 | #35   | 28/11/2024  | Medio      | Los números perdidos                  | [Ver solución](retos/Numeros_perdidos) |
 | #36   | 29/11/2024  | Medio      | Batalla pokémon                       | [Ver solución](retos/Batalla_pokemon) |
+| #37   | 03/12/2024  | Medio      | Los anillos de poder                  | [Ver solución](retos/Los_anillos_de_poder) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
