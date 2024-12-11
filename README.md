@@ -53,6 +53,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #38   | 03/12/2024  | Medio      | Los lanzamientos de "The legend of Zelda"| [Ver solución](retos/The_legend_of_Zelda) |
 | #39   | 04/12/2024  | Medio      | Binario a decimal                     | [Ver solución](retos/Binario_decimal) |
 | #40   | 10/12/2024  | Medio      | Top algortimos / Quick sort           | [Ver solución](retos/Top_algoritmos_quick_sort) |
+| #41   | 11/12/2024  | Medio      | El triangulo de Pascal                | [Ver solución](retos/Triangulo_de_pascal) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
