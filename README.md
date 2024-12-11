@@ -55,6 +55,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #40   | 10/12/2024  | Medio      | Top algortimos / Quick sort           | [Ver solución](retos/Top_algoritmos_quick_sort) |
 | #41   | 11/12/2024  | Medio      | El triangulo de Pascal                | [Ver solución](retos/Triangulo_de_pascal) |
 | #42   | 11/12/2024  | Fácil      | La ley de ohm                         | [Ver solución](retos/La_ley_de_ohm) |
+| #43   | 11/12/2024  | Fácil      | Conversor de temperatura              | [Ver solución](retos/Conversor_de_temperatura) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
