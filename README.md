@@ -57,6 +57,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #42   | 11/12/2024  | Fácil      | La ley de ohm                         | [Ver solución](retos/La_ley_de_ohm) |
 | #43   | 11/12/2024  | Fácil      | Conversor de temperatura              | [Ver solución](retos/Conversor_de_temperatura) |
 | #44   | 12/12/2024  | Medio      | Truco o trato                         | [Ver solución](retos/Truco_o_trato) |
+| #45   | 12/12/2024  | Fácil      | Bumeranes                         | [Ver solución](retos/Bumeranes) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
