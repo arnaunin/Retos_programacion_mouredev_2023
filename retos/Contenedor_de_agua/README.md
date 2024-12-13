@@ -6,15 +6,15 @@ Dado un array de números enteros positivos, donde cada uno representa unidades 
 Dado el array `[4, 0, 3, 6, 1, 3]`:
 
 ```
-        ⿹
-        ⿹
-  ⿹💧💧⿹
-  ⿹💧⿹⿹💧⿹
-  ⿹💧⿹⿹💧⿹
-  ⿹💧⿹⿹⿹⿹
+         ⏹
+         ⏹
+  ⏹💧💧⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹⏹⏹
 ```
 
-Representando bloques con `⿹` y agua con `💧`, quedarán atrapadas **7 unidades de agua**. Suponemos que existe un suelo impermeable en la parte inferior que retiene el agua.
+Representando bloques con `⏹` y agua con `💧`, quedarán atrapadas **7 unidades de agua**. Suponemos que existe un suelo impermeable en la parte inferior que retiene el agua.
 
 #
 
@@ -24,15 +24,15 @@ Given an array of positive integers, where each one represents units of stacked 
 Given the array `[4, 0, 3, 6, 1, 3]`:
 
 ```
-        ⿹
-        ⿹
-  ⿹💧💧⿹
-  ⿹💧⿹⿹💧⿹
-  ⿹💧⿹⿹💧⿹
-  ⿹💧⿹⿹⿹⿹
+         ⏹
+         ⏹
+  ⏹💧💧⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹💧⏹
+  ⏹💧⏹⏹⏹⏹
 ```
 
-Representing blocks with `⿹` and water with `💧`, **7 units of water** will be trapped. We assume there is an impermeable floor at the bottom that retains the water.
+Representing blocks with `⏹` and water with `💧`, **7 units of water** will be trapped. We assume there is an impermeable floor at the bottom that retains the water.
 
 ---
 
