@@ -60,6 +60,7 @@ Aquí tienes el listado de los retos que he completado, junto con su fecha de pu
 | #45   | 12/12/2024  | Fácil      | Bumeranes                             | [Ver solución](retos/Bumeranes) |
 | #46   | 12/12/2024  | Medio      | Contenedor de agua                    | [Ver solución](retos/Contenedor_de_agua) |
 | #47   | 13/12/2024  | Medio      | ¿Dónde está el robot?                 | [Ver solución](retos/Donde_esta_el_robot) |
+| #47   | 08/01/2025  | Facil      | Vocal más común                       | [Ver solución](retos/Vocal_mas_comun) |
 
 > **Nota:** Los retos son independientes entre sí, por lo que pueden resolverse en cualquier orden y en cualquier lenguaje de programación.
 
